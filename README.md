@@ -32,3 +32,32 @@ Libraries used for the analysis:
     import re
 ```
 
+# Notebooks
+I The first part is ‘practicals’ folder with five notebooks:  
+ 1.	In the Information notebook we used different Python functionalities to generate characters based on the certain conditions. In the second exercise it was explained why the log of 0 is undefined.  
+ 2.	In the Randomness notebook, formula for the binomial coefficient was shown, the plots of three different types of distributions were plotted: Poisson, Chi-Square and Gamma distribution.  
+ 3.	Bias notebook contains three real-world examples of cognitive bias and the visual representation of changing the value of standard deviation depending on the sample size.   
+ 4.	In the Outliers notebook we recreated box plots for the morley data set taken from Wikipedia, as well as the box plots for the numerical variables of the Fisher’s Iris Data set. 
+ 5.	Cleansing notebook shows the use of Regular Expressions in Python.   
+
+II The second part of the assessment is the Normal distribution notebook 
+
+The main concepts of the normal distribution were described and visualised. First, the definition was given together with the probability density function. Then the parameters mu and sigma were described with the plots for different sigma values. 
+
+![sigma](https://github.com/Tanja888/funddata-assessment/blob/main/images/sigma.png)
+
+The difference between the standard deviation and the standard error was explained as well as the idea of the z-scores.   
+Empirical or the 68-95-99.7 rule was plotted for easier comprehension showing what percentage of values fall under the distribution’s curve if we look at the standard deviation. 
+(image)
+
+Three measures of central tendency (MCT) were described, mean, median and the mode and in the visual part the affect that the outliers have on the mean. (image)
+
+For the Central limit theorem (CLT) we took an example from DataCamp to show how the sampling distribution of the means resembles more to the normal distribution in case of larger number of samples. 
+
+In the end, the measures of skewness and kurtosis were touched upon, the differences between the three types of kurtosis were described while the plot was used to show three types of skewness (image) 
+
+# Conclusion
+The practical exercises in the first part of the assessment gave a good idea of what aspects exist and should be considered while analysing data, from understanding the ideas of randomness and bias to using regular expressions for easier data preparation and cleaning. Describing the concepts of the normal distribution through examples and visual representations was a useful reminder of its importance in statistics and data analysis. 
+
+
+[def]: https://github.com/Tanja888/funddata-assessment/blob/main/images/sigma.png
