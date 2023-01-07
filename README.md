@@ -48,16 +48,21 @@ The main concepts of the normal distribution were described and visualised. Firs
 
 The difference between the standard deviation and the standard error was explained as well as the idea of the z-scores.   
 Empirical or the 68-95-99.7 rule was plotted for easier comprehension showing what percentage of values fall under the distribution’s curve if we look at the standard deviation. 
-(image)
+![empirical_rule](https://github.com/Tanja888/funddata-assessment/blob/main/images/empirical_rule.png)
 
-Three measures of central tendency (MCT) were described, mean, median and the mode and in the visual part the affect that the outliers have on the mean. (image)
+Three measures of central tendency (MCT) were described, mean, median and the mode and in the visual part the affect that the outliers have on the mean.   
+![mct](https://github.com/Tanja888/funddata-assessment/blob/main/images/mct.png)
 
 For the Central limit theorem (CLT) we took an example from DataCamp to show how the sampling distribution of the means resembles more to the normal distribution in case of larger number of samples. 
 
-In the end, the measures of skewness and kurtosis were touched upon, the differences between the three types of kurtosis were described while the plot was used to show three types of skewness (image) 
+In the end, the measures of skewness and kurtosis were touched upon, the differences between the three types of kurtosis were described while the plot was used to show three types of skewness.
+![skewness](https://github.com/Tanja888/funddata-assessment/blob/main/images/skewness.png)  
 
 # Conclusion
 The practical exercises in the first part of the assessment gave a good idea of what aspects exist and should be considered while analysing data, from understanding the ideas of randomness and bias to using regular expressions for easier data preparation and cleaning. Describing the concepts of the normal distribution through examples and visual representations was a useful reminder of its importance in statistics and data analysis. 
 
 
 [def]: https://github.com/Tanja888/funddata-assessment/blob/main/images/sigma.png
+[def2]: https://github.com/Tanja888/funddata-assessment/blob/main/images/empirical_rule.png
+[def3]: https://github.com/Tanja888/funddata-assessment/blob/main/images/mct.png
+[def4]: https://github.com/Tanja888/funddata-assessment/blob/main/images/skewness.png
